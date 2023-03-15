@@ -8,3 +8,6 @@ body{
 body{
     display: flex;
 }
+body{
+    display: block;
+}
